@@ -5,5 +5,6 @@ from django.urls import path,include
 
 urlpatterns = [
     path('',views.index,name='index'),
+    path('base',views.base,name='base'),
 
 ]
