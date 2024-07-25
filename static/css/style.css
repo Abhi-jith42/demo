@@ -1,0 +1,20 @@
+    .custom-col1 {
+      background-color: #ffcccc; /* Light pink background */
+      border: 1px solid #e6b3b3; /* Light pink border */
+      padding: 10px; /* Add some padding */
+      text-align: center; /* Center align text */
+    }
+
+    .custom-col2 {
+      background-color: #ccebff; /* Light blue background */
+      border: 1px solid #b3d9ff; /* Light blue border */
+      padding: 10px; /* Add some padding */
+      text-align: center; /* Center align text */
+    }
+
+    .custom-col3 {
+      background-color: #e6f2ff; /* Light grayish-blue background */
+      border: 1px solid #99c2ff; /* Light grayish-blue border */
+      padding: 10px; /* Add some padding */
+      text-align: center; /* Center align text */
+    }
